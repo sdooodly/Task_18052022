@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-crud-no-framework-client-side-solution",
+    "id": "009e73c9-7ea5-4adc-885d-5cff653cdfad",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-crud-no-framework description"
+      },
+      "longDescription": {
+        "default": "spfx-crud-no-framework description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-crud-no-framework Feature",
+        "description": "The feature that activates elements of the spfx-crud-no-framework solution.",
+        "id": "1bc65192-c883-48ca-9583-c68670984639",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-crud-no-framework.sppkg"
+  }
+}

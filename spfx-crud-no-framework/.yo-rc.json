@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "spfx-crud-no-framework",
+    "libraryId": "009e73c9-7ea5-4adc-885d-5cff653cdfad",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-crud-no-framework",
+    "solutionShortDescription": "spfx-crud-no-framework description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
